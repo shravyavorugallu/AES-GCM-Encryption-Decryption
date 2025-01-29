@@ -1,4 +1,3 @@
-# AES-GCM-Encryption-Decryption
 # AES-GCM Encryption and Decryption in Python
 
 ## Description
